@@ -1,0 +1,19 @@
+#mass1
+min_mass1: 10.0
+max_mass1: 80.0
+#mass2
+min_mass2: 10.0
+max_mass2: 80.0
+#spin1z
+min_spin1z: 0
+max_spin1z: 0.998
+#spin2z
+min_spin2z: 0
+max_spin2z: 0.998
+#snr
+snr_min: 7
+snr_max: 20
+#input directory
+input_dir: data/data1
+#output directory
+output_dir: output
